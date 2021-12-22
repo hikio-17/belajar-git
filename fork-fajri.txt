@@ -1,0 +1,3 @@
+hello,perkenalakan saya fajri asal kerinci
+disini saya menambahkan sebuah file baru pada repository anda
+mohon ditambahkan ke branch master ya.....
