@@ -1,2 +1,0 @@
-mecoba membuat multiple remote di github
-fork ==> clone ==> edit ==> yp to date repo master
